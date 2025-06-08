@@ -1,0 +1,33 @@
+ <header>
+
+    </header>
+
+    <main>
+        <article>
+
+        </article>
+    </main>
+
+    <div>
+
+    </div>
+
+    <main>
+        <article>
+
+        </article>
+    </main>
+
+    <div>
+
+    </div>
+
+    <main>
+        <article>
+
+        </article>
+    </main>
+
+    <footer>
+        
+    </footer>
